@@ -1,0 +1,15 @@
+{
+  "name": "lab4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "surov",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^10.0.1"
+  }
+}
